@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<h2>هيثم الصيد — مبرمج Flutter</h2>
 
 <details>
   <summary><strong>🎧 Currently vibing to :</strong></summary>
@@ -30,8 +29,7 @@
 
 ```dart
 class AboutMe {
-  final String name = "هيثم الصيد";
-  final String role = "مبرمج Flutter";
+  final String role = "Flutter Developer";
   final List<String> techStack = [
     "Flutter", "Dart", "Firebase", "REST API", "Git"
   ];
@@ -39,20 +37,3 @@ class AboutMe {
     "VSCode", "Figma"
   ];
 }
-🧠 About Me
-💻 I’m a Flutter Developer passionate about crafting beautiful & efficient mobile apps.
-
-🧩 I love clean code and scalable architecture.
-
-💬 Ask me about Flutter, Dart, UI/UX, or App Deployment.
-
-⚡ Fun Fact: I debug more than I code... but it works 😅
-
-<div align="center"> <a href="https://github.com/haithamsaid"> <img src="https://github-readme-stats.vercel.app/api?username=haithamsaid&show_icons=true&theme=tokyonight" width="45%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithamsaid&layout=compact&theme=tokyonight" width="45%"> </a> </div>
-<div align="center">
-Code Life Cycle
-<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
-</div>
