@@ -22,7 +22,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white).
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
