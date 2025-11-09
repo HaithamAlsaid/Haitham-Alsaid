@@ -1,7 +1,8 @@
-<div align="center">
+from pathlib import Path
+
+content = """<div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
 <details>
   <summary><strong>🎧 Currently vibing to :</strong></summary>
@@ -26,9 +27,8 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ```dart
@@ -39,6 +39,6 @@ class AboutMe {
     "Flutter", "Dart", "Firebase", "REST API", "Git"
   ];
   final List<String> tools = [
-    "VSCode", "Figma", "SQLite"
+    "VSCode", "Figma"
   ];
 }
